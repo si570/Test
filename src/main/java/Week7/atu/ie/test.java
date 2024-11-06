@@ -78,7 +78,7 @@ public class test {
         String Userinpu =scan1.toString();
 
         if(Userinpu == "E"){
-            //myscan.exit
+            myscan.exit
         }
 
 
